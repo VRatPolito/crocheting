@@ -1,0 +1,150 @@
+Anello magico:
+    68 catenelle
+
+Giro 1
+    68 mb
+
+Giro 2
+    68 mb
+
+Giro 3
+    60 mb
+     ←
+    -18 mb
+     →
+    26 mb
+
+Giro 4
+    9 mb
+    1 dim
+    8 mb
+    1 dim
+    22 mb
+    1 dim
+    8 mb
+    1 dim
+    10 mb
+     ←
+    -26 mb
+     →
+    29 mb
+
+Giro 5
+    29 mb
+    1 dim
+    31 mb
+    1 dim
+
+Giro 6
+    62 mb
+
+Giro 7
+    2 mb
+     ←
+    -1 mb
+
+Giro 8
+    -33 mb
+     →
+    32 mb
+
+Giro 9
+    19 mb
+    1 dim
+    18 mb
+    1 dim
+    8 mb
+    1 dim
+    7 mb
+    1 dim
+    2 mb
+
+Giro 10
+    8 mb
+    1 dim
+    48 mb
+
+Giro 11
+    26 mb
+    1 dim
+    29 mb
+
+Giro 12
+    16 mb
+    1 dim
+    18 mb
+    1 dim
+    7 mb
+    1 dim
+    7 mb
+    1 dim
+
+Giro 13
+    8 mb
+    1 dim
+    16 mb
+    1 dim
+    24 mb
+
+Giro 14
+    3 mb
+     ←
+    -2 mb
+
+Giro 15
+    -27 mb
+     →
+    26 mb
+
+Giro 16
+    16 mb
+    1 dim
+    31 mb
+
+Giro 17
+    1 dim
+    29 mb
+    1 dim
+    1 mb
+    1 dim
+    4 mb
+    1 dim
+    7 mb
+
+Giro 18
+    7 mb
+    1 dim
+    13 mb
+    1 dim
+    1 mb
+    1 dim
+    18 mb
+
+Giro 19
+    13 mb
+    1 dim
+    20 mb
+    1 dim
+    4 mb
+
+Giro 20
+    1 dim
+    6 mb
+    1 dim
+    5 mb
+    1 dim
+    23 mb
+
+Giro 21
+    18 mb
+    1 dim
+    4 mb
+    1 dim
+    11 mb
+
+Giro 22
+    1 dim
+    27 mb
+    1 dim
+    4 mb
+

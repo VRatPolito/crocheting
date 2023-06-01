@@ -1,0 +1,305 @@
+Anello magico:
+    42 catenelle
+
+Giro 1
+    42 mb
+
+Giro 2
+    18 mb
+    1 dim
+    22 mb
+
+Giro 3
+    41 mb
+
+Giro 4
+    41 mb
+
+Giro 5
+    41 mb
+
+Giro 6
+    17 mb
+    1 dim
+    22 mb
+
+Giro 7
+    40 mb
+
+Giro 8
+    40 mb
+
+Giro 9
+    16 mb
+    1 dim
+    22 mb
+
+Giro 10
+    39 mb
+
+Giro 11
+    39 mb
+
+Giro 12
+    39 mb
+
+Giro 13
+    15 mb
+    1 dim
+    22 mb
+
+Giro 14
+    38 mb
+
+Giro 15
+    14 mb
+    1 dim
+    22 mb
+
+Giro 16
+    37 mb
+
+Giro 17
+    37 mb
+
+Giro 18
+    13 mb
+    1 dim
+    22 mb
+
+Giro 19
+    36 mb
+
+Giro 20
+    12 mb
+    1 dim
+    22 mb
+
+Giro 21
+    35 mb
+
+Giro 22
+    12 mb
+    1 dim
+    21 mb
+
+Giro 23
+    11 mb
+    1 dim
+    21 mb
+
+Giro 24
+    11 mb
+    1 dim
+    20 mb
+
+Giro 25
+    32 mb
+
+Giro 26
+    10 mb
+    1 dim
+    20 mb
+
+Giro 27
+    10 mb
+    1 dim
+    19 mb
+
+Giro 28
+    30 mb
+
+Giro 29
+    10 mb
+    1 dim
+    18 mb
+
+Giro 30
+    29 mb
+
+Giro 31
+    29 mb
+
+Giro 32
+    11 mb
+    1 dim
+    16 mb
+
+Giro 33
+    28 mb
+
+Giro 34
+    11 mb
+    1 dim
+    15 mb
+
+Giro 35
+    27 mb
+
+Giro 36
+    27 mb
+
+Giro 37
+    10 mb
+    1 dim
+    15 mb
+
+Giro 38
+    26 mb
+
+Giro 39
+    26 mb
+
+Giro 40
+    10 mb
+    1 dim
+    14 mb
+
+Giro 41
+    25 mb
+
+Giro 42
+    25 mb
+
+Giro 43
+    25 mb
+
+Giro 44
+    10 mb
+    1 dim
+    13 mb
+
+Giro 45
+    24 mb
+
+Giro 46
+    24 mb
+
+Giro 47
+    24 mb
+
+Giro 48
+    10 mb
+    1 dim
+    12 mb
+
+Giro 49
+    23 mb
+
+Giro 50
+    23 mb
+
+Giro 51
+    23 mb
+
+Giro 52
+    9 mb
+    1 dim
+    12 mb
+
+Giro 53
+    22 mb
+
+Giro 54
+    22 mb
+
+Giro 55
+    22 mb
+
+Giro 56
+    22 mb
+
+Giro 57
+    9 mb
+    1 dim
+    11 mb
+
+Giro 58
+    21 mb
+
+Giro 59
+    21 mb
+
+Giro 60
+    21 mb
+
+Giro 61
+    21 mb
+
+Giro 62
+    9 mb
+    1 dim
+    10 mb
+
+Giro 63
+    20 mb
+
+Giro 64
+    20 mb
+
+Giro 65
+    20 mb
+
+Giro 66
+    20 mb
+
+Giro 67
+    20 mb
+
+Giro 68
+    8 mb
+    1 dim
+    10 mb
+
+Giro 69
+    19 mb
+
+Giro 70
+    19 mb
+
+Giro 71
+    19 mb
+
+Giro 72
+    19 mb
+
+Giro 73
+    19 mb
+
+Giro 74
+    8 mb
+    1 dim
+    9 mb
+
+Giro 75
+    18 mb
+
+Giro 76
+    18 mb
+
+Giro 77
+    18 mb
+
+Giro 78
+    18 mb
+
+Giro 79
+    18 mb
+
+Giro 80
+    8 mb
+    1 dim
+    8 mb
+
+Giro 81
+    17 mb
+
+Giro 82
+    17 mb
+
+Giro 83
+    17 mb
+
+Giro 84
+    16 mb
+

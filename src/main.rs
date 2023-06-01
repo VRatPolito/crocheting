@@ -1,4 +1,6 @@
+pub use crocheting;
 use crocheting::param_surface::surface::{Cylinder, UVSurface, MultiShapeSurface};
+
 use crocheting::geometry::curves::{Bezier, Curve};
 use crocheting::geometry::shapes::{MultiPointShape, Circle, Shape};
 use crocheting::mesh_viz::mesh_viz::StitchMesh;
@@ -1193,6 +1195,7 @@ mod tests
         std::fs::create_dir_all("dati_grafici/paper_results_mean_variance/").unwrap();
         std::fs::create_dir_all("dati_grafici/paper_results_mean_variance/sup_c/").unwrap();
         std::fs::create_dir_all("dati_grafici/paper_results_mean_variance/sup_d/").unwrap();
+        std::fs::create_dir_all("dati_grafici/dati_integrativi/istruzioni/").unwrap();
 
         let current_dim = crocheting::crochet_consts::crochet_consts::get_width();
 
@@ -1248,7 +1251,7 @@ mod tests
                 let mut st = StitchMesh::new_from_graph(&gr);
                 let istr = InstructionsGenerator::new(&st);
                 istr.text_instructions(Some(
-                    &format!("../cannavo_dati_integrativi/istruzioni/{}_{}_capunaman.txt", nome, current_dim)
+                    &format!("dati_grafici/dati_integrativi/istruzioni/{}_{}_capunaman.txt", nome, current_dim)
                 ));
 
                 let dati_capunaman: [Duration; 3] = [
@@ -1296,7 +1299,7 @@ mod tests
                 let mut st = StitchMesh::new_from_graph(&gr);
                 let istr = InstructionsGenerator::new(&st);
                 istr.text_instructions(Some(
-                    &format!("../cannavo_dati_integrativi/istruzioni/{}_{}_gismondi.txt", nome, current_dim)
+                    &format!("dati_grafici/dati_integrativi/istruzioni/{}_{}_gismondi.txt", nome, current_dim)
                 ));
 
                 let dati_gismondi: [Duration; 3] = [
