@@ -1,0 +1,552 @@
+Anello magico:
+    13 catenelle
+
+Giro 1
+    2 mb
+    1 aum
+    1 mb
+    1 aum
+    1 mb
+    1 aum
+    1 mb
+    1 aum
+    1 mb
+    1 aum
+    1 mb
+    1 aum
+
+Giro 2
+    1 mb
+    1 aum
+    2 mb
+    1 aum
+    6 mb
+    1 aum
+    1 mb
+    1 aum
+    1 mb
+    1 aum
+    1 mb
+    1 aum
+    1 mb
+
+Giro 3
+    3 mb
+    1 aum
+    1 mb
+    1 aum
+    1 mb
+    1 aum
+    1 mb
+    1 aum
+    8 mb
+    1 aum
+    6 mb
+
+Giro 4
+    7 mb
+    1 aum
+    10 mb
+    1 aum
+    3 mb
+    1 aum
+    1 mb
+    1 aum
+    1 mb
+    1 aum
+    3 mb
+
+Giro 5
+    2 mb
+    1 aum
+    5 mb
+    1 aum
+    1 mb
+    1 aum
+    2 mb
+    1 aum
+    10 mb
+    1 aum
+    1 mb
+    1 aum
+    8 mb
+
+Giro 6
+    11 mb
+    1 aum
+    25 mb
+    1 aum
+    3 mb
+
+Giro 7
+    4 mb
+    1 aum
+    4 mb
+    1 aum
+    3 mb
+     ←
+    -1 mb
+    -1 aum
+    -4 mb
+     →
+    18 mb
+    1 aum
+    1 mb
+    1 aum
+    3 mb
+    1 aum
+    1 mb
+    1 aum
+    1 mb
+     ←
+    -7 mb
+     →
+    16 mb
+
+Giro 8
+    8 mb
+    1 aum
+    2 mb
+    1 aum
+    1 mb
+    1 aum
+    1 mb
+    1 aum
+    1 mb
+    1 aum
+    1 mb
+    1 aum
+    16 mb
+    1 aum
+    1 mb
+    1 aum
+    1 mb
+    1 aum
+    1 mb
+    1 aum
+    1 mb
+    1 aum
+    5 mb
+
+Giro 9
+    13 mb
+    1 aum
+    33 mb
+    1 aum
+    13 mb
+
+Giro 10
+    17 mb
+    1 aum
+    26 mb
+    1 aum
+    18 mb
+
+Giro 11
+    3 mb
+    1 aum
+    1 mb
+    1 aum
+    8 mb
+    1 aum
+    23 mb
+    1 aum
+    8 mb
+    1 aum
+    2 mb
+    1 aum
+    14 mb
+
+Giro 12
+    22 mb
+     ←
+    -4 mb
+     →
+    1 mb
+    1 aum
+    1 mb
+    1 aum
+    39 mb
+    1 aum
+    1 mb
+    1 aum
+    7 mb
+
+Giro 13
+    15 mb
+     ←
+    -14 mb
+
+Giro 14
+    -16 mb
+    -1 aum
+    -18 mb
+    -1 aum
+    -9 mb
+     →
+    1 mb
+    1 aum
+    14 mb
+    1 aum
+    8 mb
+    1 aum
+    6 mb
+    1 aum
+    13 mb
+
+Giro 15
+    12 mb
+    1 aum
+    1 mb
+    1 aum
+    2 mb
+    1 aum
+    7 mb
+    1 aum
+    2 mb
+    1 aum
+    1 mb
+    1 aum
+    50 mb
+
+Giro 16
+    87 mb
+
+Giro 17
+    39 mb
+    1 aum
+    47 mb
+
+Giro 18
+    16 mb
+    1 aum
+    19 mb
+     ←
+    -1 mb
+    -1 aum
+    -13 mb
+    -1 aum
+    -1 mb
+    -1 aum
+    -7 mb
+     →
+    80 mb
+
+Giro 19
+    17 mb
+    1 dim
+    1 mb
+    1 dim
+    1 mb
+    1 dim
+    1 mb
+    1 dim
+    1 mb
+    1 dim
+    1 mb
+    1 dim
+    3 mb
+    1 dim
+    8 mb
+     ←
+    -39 mb
+
+Giro 20
+    -1 mb
+     →
+
+Giro 21
+    67 mb
+    1 dim
+    16 mb
+
+Giro 22
+    6 mb
+    1 dim
+    1 mb
+    1 dim
+    2 mb
+    1 dim
+    1 mb
+    1 dim
+    1 mb
+    1 dim
+    1 mb
+    1 dim
+    1 mb
+    1 dim
+    1 mb
+    1 dim
+    1 mb
+    1 dim
+    1 mb
+    1 dim
+    7 mb
+    1 dim
+    6 mb
+     ←
+    -39 mb
+
+Giro 23
+    -1 mb
+     →
+
+Giro 24
+    73 mb
+
+Giro 25
+    1 dim
+    1 mb
+    1 dim
+    4 mb
+    1 dim
+    1 mb
+    1 dim
+    1 mb
+    1 dim
+    1 mb
+    1 dim
+    1 mb
+    1 dim
+    1 mb
+    1 dim
+    1 mb
+    1 dim
+    6 mb
+    1 dim
+    1 mb
+    1 dim
+     ←
+    -28 mb
+
+Giro 26
+    -8 mb
+     →
+    7 mb
+
+Giro 27
+    35 mb
+    1 dim
+    5 mb
+    1 dim
+    10 mb
+    1 dim
+    6 mb
+
+Giro 28
+    1 dim
+    3 mb
+    1 dim
+    1 mb
+    1 dim
+    1 mb
+    1 dim
+    1 mb
+    1 dim
+    1 mb
+    1 dim
+    1 mb
+    1 dim
+    10 mb
+     ←
+    -24 mb
+
+Giro 29
+    -9 mb
+     →
+    8 mb
+
+Giro 30
+    30 mb
+    1 dim
+    3 mb
+    1 dim
+    6 mb
+    1 dim
+    3 mb
+    1 dim
+    1 mb
+
+Giro 31
+    1 dim
+    4 mb
+    1 dim
+    1 mb
+    1 dim
+    1 mb
+    1 dim
+    1 mb
+    1 dim
+     ←
+    -11 mb
+
+Giro 32
+    -5 mb
+     →
+    4 mb
+
+Giro 33
+    17 mb
+    1 dim
+    21 mb
+    1 dim
+    1 mb
+
+Giro 34
+    2 mb
+    1 dim
+    1 mb
+    1 dim
+    1 mb
+    1 dim
+    1 mb
+    1 dim
+     ←
+    -8 mb
+
+Giro 35
+    -4 mb
+     →
+    3 mb
+
+Giro 36
+    10 mb
+    1 dim
+    2 mb
+    1 dim
+    4 mb
+    1 dim
+    3 mb
+    1 dim
+    3 mb
+    1 dim
+    2 mb
+     ←
+    -3 mb
+     →
+    4 mb
+    1 dim
+
+Giro 37
+    1 mb
+    1 dim
+    1 mb
+    1 dim
+    1 mb
+    1 dim
+    1 mb
+    1 dim
+     ←
+    -5 mb
+     →
+    6 mb
+    1 dim
+    11 mb
+    1 dim
+    1 mb
+    1 dim
+
+Giro 38
+    1 mb
+    1 dim
+    1 mb
+    1 dim
+    1 mb
+    1 dim
+    1 mb
+    1 dim
+    1 mb
+    1 dim
+    1 mb
+    1 dim
+    1 mb
+    1 dim
+    2 mb
+
+Giro 39
+    1 dim
+    2 mb
+    1 dim
+    11 mb
+
+Giro 40
+    1 dim
+    13 mb
+
+Giro 41
+    1 aum
+    14 mb
+
+Giro 42
+    9 mb
+    1 dim
+    1 mb
+    1 dim
+    1 mb
+
+Giro 43
+    11 mb
+    1 aum
+    1 mb
+
+Giro 44
+    1 aum
+    1 mb
+    1 aum
+    11 mb
+
+Giro 45
+    1 dim
+    1 mb
+    1 dim
+    6 mb
+    1 dim
+    3 mb
+
+Giro 46
+    1 aum
+    1 mb
+    1 aum
+    6 mb
+    1 aum
+    4 mb
+
+Giro 47
+    15 mb
+    1 aum
+
+Giro 48
+    2 mb
+    1 aum
+    1 mb
+    1 aum
+    2 mb
+    1 aum
+    2 mb
+    1 aum
+    1 mb
+    1 aum
+    4 mb
+
+Giro 49
+    3 mb
+    1 dim
+    5 mb
+    1 dim
+    1 mb
+    1 dim
+    3 mb
+    1 dim
+    1 mb
+
+Giro 50
+    1 dim
+    5 mb
+    1 dim
+    4 mb
+    1 dim
+    3 mb
+
+Giro 51
+    3 mb
+

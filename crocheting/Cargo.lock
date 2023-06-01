@@ -53,14 +53,6 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "279fb028e20b3c4c320317955b77c5e0c9701f05a1d309905d6fc702cdc5053e"
 
 [[package]]
-name = "generatore_uncinetto"
-version = "0.1.0"
-dependencies = [
- "crocheting",
- "nalgebra",
-]
-
-[[package]]
 name = "getrandom"
 version = "0.2.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -271,9 +263,9 @@ dependencies = [
 
 [[package]]
 name = "simba"
-version = "0.7.0"
+version = "0.7.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "6fa406d0a270fc91831a28f705ba803ad05b971486af492317f1607390245b99"
+checksum = "13a2609e876d4f77f6ab7ff5254fc39b4f1927ba8e6db3d18be7c32534d3725e"
 dependencies = [
  "approx",
  "num-complex",
